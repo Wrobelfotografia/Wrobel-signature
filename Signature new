@@ -1,0 +1,88 @@
+<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#ffffff" style="background-color:#ffffff;border-collapse:collapse;">
+<tr>
+
+    <!-- WRAPPER -->
+    <td align="left" style="background-color:#ffffff;padding:0;">
+
+        <table cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;font-family:Roboto, Arial, Helvetica, sans-serif;max-width:600px;background-color:#ffffff;" bgcolor="#ffffff">
+
+            <tr>
+
+                <!-- LEWA KOLUMNA -->
+                <td valign="top" style="padding-right:20px;background-color:#ffffff;" bgcolor="#ffffff">
+
+                    <img
+                        src="https://raw.githubusercontent.com/Wrobelfotografia/Wrobel-signature/refs/heads/main/img3.png"
+                        width="270"
+                        height="150"
+                        alt="Michał Wróbel - Fotograf i Grafik"
+                        style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;">
+
+                </td>
+
+                <!-- PRAWA KOLUMNA -->
+                <td valign="middle"
+                    bgcolor="#ffffff"
+                    style="font-size:14px;line-height:22px;color:#333333;background-color:#ffffff;padding:10px 0 10px 0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;">
+
+                    <!-- WWW -->
+                    <table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:12px;background-color:#ffffff;" bgcolor="#ffffff">
+                        <tr>
+                            <td width="28" valign="middle">
+                                <img src="https://raw.githubusercontent.com/Wrobelfotografia/Wrobel-signature/refs/heads/main/website.png"
+                                     width="18"
+                                     style="display:block;border:0;outline:none;text-decoration:none;">
+                            </td>
+                            <td valign="middle" style="color:#333333;font-size:14px;line-height:22px;">
+                                <a href="https://wrobelfotografia.myportfolio.com/home"
+                                   style="color:#333333;text-decoration:none;">
+                                    wrobelfotografia.myportfolio.com
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+
+                    <!-- TELEFON -->
+                    <table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:12px;background-color:#ffffff;" bgcolor="#ffffff">
+                        <tr>
+                            <td width="28" valign="middle">
+                                <img src="https://raw.githubusercontent.com/Wrobelfotografia/Wrobel-signature/refs/heads/main/phone.png"
+                                     width="18"
+                                     style="display:block;border:0;">
+                            </td>
+                            <td valign="middle" style="color:#333333;font-size:14px;line-height:22px;">
+                                <a href="tel:+48514844404"
+                                   style="color:#333333;text-decoration:none;">
+                                    +48 514 844 404
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+
+                    <!-- INSTAGRAM -->
+                    <table cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="background-color:#ffffff;">
+                        <tr>
+                            <td width="28" valign="middle">
+                                <img src="https://raw.githubusercontent.com/Wrobelfotografia/Wrobel-signature/refs/heads/main/instagram.png"
+                                     width="18"
+                                     style="display:block;border:0;">
+                            </td>
+                            <td valign="middle" style="color:#333333;font-size:14px;line-height:22px;">
+                                <a href="https://www.instagram.com/wrobelfotografia/"
+                                   style="color:#333333;text-decoration:none;">
+                                    wrobelfotografia
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+
+                </td>
+
+            </tr>
+
+        </table>
+
+    </td>
+
+</tr>
+</table>
